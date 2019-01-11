@@ -1,12 +1,12 @@
-package com.esme.spring.faircorp.model.Controller;
+package com.esme.spring.faircorp.model.controller;
 
-import com.esme.spring.faircorp.model.Building.BuildingDao;
-import com.esme.spring.faircorp.model.Light.Light;
-import com.esme.spring.faircorp.model.Light.LightDao;
-import com.esme.spring.faircorp.model.Light.LightDto;
-import com.esme.spring.faircorp.model.Room.Room;
-import com.esme.spring.faircorp.model.Room.RoomDao;
-import com.esme.spring.faircorp.model.Room.RoomDto;
+import com.esme.spring.faircorp.model.building.BuildingDao;
+import com.esme.spring.faircorp.model.light.Light;
+import com.esme.spring.faircorp.model.light.LightDao;
+import com.esme.spring.faircorp.model.light.LightDto;
+import com.esme.spring.faircorp.model.room.Room;
+import com.esme.spring.faircorp.model.room.RoomDao;
+import com.esme.spring.faircorp.model.room.RoomDto;
 import com.esme.spring.faircorp.model.Status;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

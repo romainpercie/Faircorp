@@ -1,7 +1,7 @@
-package com.esme.spring.faircorp.model.Building;
+package com.esme.spring.faircorp.model.building;
 
-import com.esme.spring.faircorp.model.Light.Light;
-import com.esme.spring.faircorp.model.Room.Room;
+import com.esme.spring.faircorp.model.light.Light;
+import com.esme.spring.faircorp.model.room.Room;
 
 import java.util.List;
 

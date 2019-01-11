@@ -1,6 +1,6 @@
 package com.esme.spring.faircorp.model;
 
-import com.esme.spring.faircorp.model.Light.LightDao;
+import com.esme.spring.faircorp.model.light.LightDao;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;

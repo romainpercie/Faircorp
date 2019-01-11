@@ -1,4 +1,4 @@
-package com.esme.spring.faircorp.model.Building;
+package com.esme.spring.faircorp.model.building;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

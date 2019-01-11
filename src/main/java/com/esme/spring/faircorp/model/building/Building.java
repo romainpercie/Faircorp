@@ -1,6 +1,6 @@
-package com.esme.spring.faircorp.model.Building;
+package com.esme.spring.faircorp.model.building;
 
-import com.esme.spring.faircorp.model.Room.Room;
+import com.esme.spring.faircorp.model.room.Room;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.persistence.*;

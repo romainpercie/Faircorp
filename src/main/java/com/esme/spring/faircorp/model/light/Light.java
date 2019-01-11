@@ -1,6 +1,6 @@
-package com.esme.spring.faircorp.model.Light;
+package com.esme.spring.faircorp.model.light;
 
-import com.esme.spring.faircorp.model.Room.Room;
+import com.esme.spring.faircorp.model.room.Room;
 import com.esme.spring.faircorp.model.Status;
 import org.springframework.beans.factory.annotation.Autowired;
 

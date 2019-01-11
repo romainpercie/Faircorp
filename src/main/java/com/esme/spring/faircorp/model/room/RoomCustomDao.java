@@ -1,9 +1,8 @@
-package com.esme.spring.faircorp.model.Room;
+package com.esme.spring.faircorp.model.room;
 
-import com.esme.spring.faircorp.model.Light.Light;
+import com.esme.spring.faircorp.model.light.Light;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface RoomCustomDao {
     Room findByName(String name);

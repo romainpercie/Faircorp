@@ -1,6 +1,6 @@
-package com.esme.spring.faircorp.model.Room;
+package com.esme.spring.faircorp.model.room;
 
-import com.esme.spring.faircorp.model.Light.Light;
+import com.esme.spring.faircorp.model.light.Light;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.*;

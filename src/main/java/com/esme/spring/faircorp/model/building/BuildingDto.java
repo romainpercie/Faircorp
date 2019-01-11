@@ -1,6 +1,4 @@
-package com.esme.spring.faircorp.model.Building;
-
-import com.esme.spring.faircorp.model.Room.Room;
+package com.esme.spring.faircorp.model.building;
 
 public class BuildingDto {
 

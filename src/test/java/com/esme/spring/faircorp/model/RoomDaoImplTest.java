@@ -1,6 +1,6 @@
 package com.esme.spring.faircorp.model;
 
-import com.esme.spring.faircorp.model.Room.RoomDao;
+import com.esme.spring.faircorp.model.room.RoomDao;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;

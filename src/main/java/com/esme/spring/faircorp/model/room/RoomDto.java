@@ -1,4 +1,4 @@
-package com.esme.spring.faircorp.model.Room;
+package com.esme.spring.faircorp.model.room;
 public class RoomDto {
 
     private Long id;
