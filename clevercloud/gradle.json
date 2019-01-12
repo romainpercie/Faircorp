@@ -3,6 +3,6 @@
     "goal": "build"
   },
   "deploy": {
-    "goal": "bootRun"
+    "jarName": "./build/libs/faircorp-0.0.1-SNAPSHOT.jar"
   }
 }
